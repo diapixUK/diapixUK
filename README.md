@@ -1,4 +1,6 @@
 # DiapixApp
+
+[![Join the chat at https://gitter.im/diapixUK/diapixUK](https://badges.gitter.im/diapixUK/diapixUK.svg)](https://gitter.im/diapixUK/diapixUK?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The diapixUK is a dialogue elicitation technique and set of materials developed by Baker and Hazan (2011) and based on the Diapix task of van Engen et al (2010).
 
 It consists of 12 ‘spot the difference’ picture tasks that have to be solved cooperatively by pairs of participants. For more information, [see our website](http://www.phon.ucl.ac.uk/project/kidLUCID/diapix.php)!
